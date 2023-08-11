@@ -1,6 +1,6 @@
-# Bicycle Renting Application: Your Gateway to Convenient Bicycles Renting
+# BikeFlow: Your Gateway to Convenient Bicycles Renting
 
-Welcome to the **Bicycle Rental Application**, a comprehensive platform designed to streamline the process of renting bicycles and managing rentals. This application serves as a user-friendly solution for both users and administrators, ensuring seamless bicycle rental experiences and efficient management.
+Welcome to the **BikeFlow, a Bicycle Rental Application**, a comprehensive platform designed to streamline the process of renting bicycles and managing rentals. This application serves as a user-friendly solution for both users and administrators, ensuring seamless bicycle rental experiences and efficient management.
 
 ## Key Features
 ### User Registration and Authentication
