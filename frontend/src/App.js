@@ -6,16 +6,13 @@ import Header from "./components/common/Header";
 import NotFound from "./components/common/NotFound";
 import Profile from "./components/common/Profile";
 import AddBicycle from "./components/common/AddBicycle";
-
 import Register from "./components/auth/Register";
 import Login from "./components/auth/Login";
-
 import UserHome from "./components/user/Home";
 import PendingRequests from "./components/user/PendingRequests";
 import RentedBicycles from "./components/user/RentedBicycles";
 import PendingReturns from "./components/user/PendingReturns";
 import RentCompleteInfo from "./components/user/RentCompleteInfo";
-
 import AdminHome from "./components/admin/Home";
 import PendingAdminRequests from "./components/admin/PendingRequests";
 import PendingAdminReturns from "./components/admin/PendingReturns";
